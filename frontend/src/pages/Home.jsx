@@ -1,9 +1,17 @@
+import productos from "../data/productos";
+import Producto from "../components/Producto";
+
 function Home() {
   return (
-    <>
-      <h2>Bienvenido a TechStore</h2>
-      <p>Tu tienda online de tecnología.</p>
-    </>
+    <div>
+      {productos.map((producto) => (
+        <Producto
+          nombre={producto.nombre}
+          precio={producto.precio}
+          color={producto.color}
+        />
+      ))}
+    </div>
   );
 }
 

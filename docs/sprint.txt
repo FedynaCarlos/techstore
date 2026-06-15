@@ -1,0 +1,62 @@
+
+Sprint 1 - Fundamentos Frontend
+[x] Crear proyecto con Vite
+[x] Configurar Git
+[x] Crear GitHub
+[x] Crear README
+[x] Crear Home
+[x] Crear Navbar
+
+[ ] Crear Footer
+[ ] Organizar carpetas de componentes
+[ ] Crear página Productos
+[ ] Crear datos de prueba (JSON)
+[ ] Mostrar productos dinámicamente con map()
+
+---------------------------------
+Sprint 2 - Navegación
+[ ] React Router
+[ ] Home
+[ ] Productos
+[ ] Detalle de producto
+[ ] Login
+[ ] Registro
+
+------------------------------
+Sprint 3 - Estado
+[ ] Props
+[ ] useState
+[ ] Eventos
+[ ] Formularios
+
+-----------------------------
+Sprint 4 - Carrito
+[ ] Agregar productos
+[ ] Eliminar productos
+[ ] Calcular total
+
+-------------------------
+Sprint 5 - Backend
+[ ] Node.js
+[ ] Express
+[ ] API REST
+[ ] Rutas
+
+------------------------------
+Sprint 6 - Base de datos
+[ ] MySQL
+[ ] CRUD
+[ ] Usuarios
+[ ] Productos
+
+--------------------------
+Sprint 7 - Autenticación
+[ ] Registro
+[ ] Login
+[ ] Roles
+
+--------------------------------
+Sprint 8 - Administrador
+[ ] Alta producto
+[ ] Modificación
+[ ] Eliminación
