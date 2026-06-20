@@ -10,6 +10,7 @@ function Home() {
           precio={producto.precio}
           color={producto.color}
           stock={producto.stock}
+          marca={producto.marca}
         />
       ))}
     </div>
