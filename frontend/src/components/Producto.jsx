@@ -2,11 +2,18 @@ function Producto(props) {
   return (
     <div>
       <h2>{props.nombre}</h2>
-      <p>{props.precio}</p>
-      <p>{props.color}</p>
-      <p>Stock: {props.stock}</p>
-      <p>{props.stock > 0 ? "Disponible" : "sin stock"}</p>
-      <p>{props.marca}</p>
+
+<p>Marca: {props.marca}</p>
+
+<p>Precio: ${props.precio}</p>
+
+<p>Color: {props.color}</p>
+
+<p>Stock: {props.stock}</p>
+
+<p>
+  {props.stock > 0 ? "Disponible ✅" : "Sin stock ❌"}
+</p>
     </div>
   );
 } 
