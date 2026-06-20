@@ -5,6 +5,7 @@ function Producto(props) {
       <p>{props.precio}</p>
       <p>{props.color}</p>
       <p>Stock: {props.stock}</p>
+      <p>{props.stock > 0 ? "Disponible" : "sin stock"}</p>
     </div>
   );
 } 
