@@ -2,6 +2,11 @@ function Producto(props) {
   return (
     <div>
       <h2>{props.nombre}</h2>
+      <img
+  src={props.imagen}
+  alt={props.nombre}
+   style={{ width: "200px", height: "auto" }}
+/>
 
 <p>Marca: {props.marca}</p>
 
