@@ -1,6 +1,7 @@
+import "./Producto.css";
 function Producto(props) {
   return (
-    <div>
+    <div className="producto-card">
       <h2>{props.nombre}</h2>
       <img
   src={props.imagen}

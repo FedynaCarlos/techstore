@@ -1,7 +1,10 @@
+import "./Footer.css";
+
 function Footer() {
   return (
-    <footer>
+    <footer className="footer">
       <p>© 2026 TechStore</p>
+      <p>Desarrollado por Juan Carlos Fedyna</p>
     </footer>
   );
 }

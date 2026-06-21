@@ -1,9 +1,10 @@
+import "./Home.css";
 import productos from "../data/productos";
 import Producto from "../components/Producto";
 
 function Home() {
   return (
-    <div>
+    <div className="productos-container">
       {productos.map((producto) => (
         <Producto
           nombre={producto.nombre}

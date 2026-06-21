@@ -32,7 +32,7 @@ let productos = [
     precio: 134000,
     color: "Black",
     stock: 6,
-    marca: "Sony",
+    marca: "Lenovo",
     imagen: notebookImg,
   },
   {
@@ -40,7 +40,7 @@ let productos = [
     precio: 11000,
     color: "Black",
     stock: 7,
-    marca: "Sony",
+    marca: "Logitech",
     imagen: mouseImg,
   },
   {
@@ -48,7 +48,7 @@ let productos = [
     precio: 40000,
     color: "Black",
     stock: 9,
-    marca: "Sony",
+    marca: "Redragon",
     imagen: tecladoImg,
   },
   {
@@ -56,7 +56,7 @@ let productos = [
     precio: 60000,
     color: "Black",
     stock: 9,
-    marca: "Sony",
+    marca: "LG",
     imagen: monitorImg,
   },
   {
@@ -64,7 +64,7 @@ let productos = [
     precio: 600000,
     color: "Black",
     stock: 9,
-    marca: "Sony",
+    marca: "Samsung",
     imagen: celularImg,
   },
   {
@@ -88,7 +88,7 @@ let productos = [
     precio: 600000,
     color: "Black",
     stock: 9,
-    marca: "Sony",
+    marca: "Aplle",
     imagen: tabletImg,
   },
   {
@@ -104,7 +104,7 @@ let productos = [
     precio: 800000,
     color: "Black",
     stock: 0,
-    marca: "Sony",
+    marca: "Epson",
     imagen: proyectorImg,
   },
 ];
